@@ -15,7 +15,7 @@ Independent advisor and builder working where machine learning meets real produc
 - **[vector-hoops](https://github.com/jcdavis131/vector-hoops)** — NBA player-season embedding maps over 12,966 player-seasons. The MTNN v5 64-d champion serves the live games at [hoops.dumbmodel.com](https://hoops.dumbmodel.com).
 - **[vector-unified](https://github.com/jcdavis131/vector-unified)** — unified player embeddings across leagues on a single L2 sphere, powering the vector game suite.
 - **[scout-cli](https://github.com/jcdavis131/scout-cli)** — plugin-based CLI: the single tool surface any agent harness can call.
-- **[zg](https://github.com/jcdavis131/zg)** — local-first hybrid search (ripgrep + BM25 + vector), published as `@zvec/zvec-grep` on npm.
+- **[zg](https://github.com/zvec-ai/zvec-grep)** — local-first hybrid search (ripgrep + BM25 + vector), published as `@zvec/zvec-grep` on npm.
 
 ## Stack
 

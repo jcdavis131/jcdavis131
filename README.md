@@ -1,26 +1,27 @@
-# Cam Davis
+# JC Davis
 
-Principal MLOps Engineer. I build and operate ML systems end to end: data pipelines, training loops, evaluation gates, serving, and the automation around them.
+Independent advisor and builder working where machine learning meets real products. I run [Alamo St Advisors](https://www.alamost.com), advising teams on AI strategy, model evaluation, data pipelines, and embedding systems. Based in Austin, Texas.
 
-> Solo personal project, no connection to employer, built with public/free-tier only (R2/Workers/Supabase/HF ZeroGPU, ONNX WASM).
+> Independent work — no connection to my employer.
 
-## Current focus
+## Now
 
-[dottie](https://github.com/jcdavis131/dottie) / [bluehen](https://github.com/jcdavis131/bluehen) — an experimental closed-loop ML project: curate training data, train small language models on consumer GPUs, promote checkpoints only when they pass an evaluation gate, and serve the result behind an agent CLI. Live console at [arxiviq.com](https://arxiviq.com).
+- **[Alamo St Advisors](https://www.alamost.com)** — advisory for teams building with AI: needs assessments, benchmarking the workflows that matter, and custom solutions.
+- **[Embedding Atlas](https://eye.jcamd.com)** — a living map of the world's occupations and markets, with live weather and sports layers ([source](https://github.com/jcdavis131/gods-eye-view)).
+- **[Dottie](https://github.com/jcdavis131/dottie)** — multipurpose agent harness for long-horizon builds, research, and ops, with closed-loop evaluation.
 
-## Selected projects
+## Selected work
 
-- [scout-cli](https://github.com/jcdavis131/scout-cli) — plugin-based CLI that serves as the single tool surface for the Dottie agent stack.
-- [ava-open-harness](https://github.com/jcdavis131/ava-open-harness) — evaluation harness that gates checkpoint promotion in the training loop.
-- [vector-hoops](https://github.com/jcdavis131/vector-hoops) — NBA player-season embedding search over 12,966 player-seasons; training details and metrics are documented in the repo.
-- [vector-equities](https://github.com/jcdavis131/vector-equities) — company embeddings trained on SEC filing data.
-- [central-texas-river-pulse](https://github.com/jcdavis131/central-texas-river-pulse) — real-time Central Texas river conditions from public LCRA/USGS feeds.
-- [yubipet](https://github.com/jcdavis131/yubipet) — a small WebAuthn toy that treats your YubiKey like a virtual pet.
+- **[vector-hoops](https://github.com/jcdavis131/vector-hoops)** — NBA player-season embedding maps over 12,966 player-seasons. The MTNN v5 64-d champion serves the live games at [hoops.dumbmodel.com](https://hoops.dumbmodel.com).
+- **[vector-unified](https://github.com/jcdavis131/vector-unified)** — unified player embeddings across leagues on a single L2 sphere, powering the vector game suite.
+- **[scout-cli](https://github.com/jcdavis131/scout-cli)** — plugin-based CLI: the single tool surface any agent harness can call.
+- **[zg](https://github.com/zvec-ai/zvec-grep)** — local-first hybrid search (ripgrep + BM25 + vector), published as `@zvec/zvec-grep` on npm.
 
 ## Stack
 
-Python, PyTorch, FastAPI, Typer, uv, Cloudflare R2/Workers, Supabase, Vercel, ONNX.
+Python, PyTorch, TypeScript, Next.js, FastAPI, Cloudflare, Vercel, ONNX.
 
-## Contact
+## Elsewhere
 
-jcdavis131@gmail.com
+- [jcamd.com](https://jcamd.com) — personal site
+- jcdavis131@gmail.com
